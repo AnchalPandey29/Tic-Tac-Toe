@@ -30,7 +30,8 @@ nav ul{
 .con{
     display: flex;
     flex-direction: row;
-    justify-content: center
+    justify-content: center;
+    align item:center;
 }
 .container{
     display: grid;
